@@ -1,4 +1,4 @@
-package com.example.springbatchdemo.Launcher;
+package com.example.springbatchdemo.launcher;
 
 import com.example.springbatchdemo.model.UserCsv;
 import org.springframework.batch.core.Job;
